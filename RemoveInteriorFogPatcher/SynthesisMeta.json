@@ -1,7 +1,7 @@
 {
   "Nickname": "RemoveInteriorFogPatcher",
-  "Visibility": "Exclude",
-  "OneLineDescription": "",
+  "Visibility": "Visible",
+  "OneLineDescription": "Synthesis patcher to remove the (Near & Far) fog from interior cells",
   "LongDescription": "",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": []
